@@ -8,16 +8,9 @@ import TextField from '@mui/material/TextField';
 import SendIcon from '@mui/icons-material/Send';
 import axios from 'axios'
 
-const api_key = process.env.GPT_API_KEY;
-
-class Message {
-  constructor(type, text) {
-    this.type = type; // 0 or 1
-    this.text = text;
-  }
-}
-
 function App() {
+  const api_key = process.env.REACT_APP_GPT_API_KEY
+  //console.log(api_key)
   const [message,setMessage] = useState("");
   const [messageList,setMessageList] = useState([])
   const alwaysMessage =  {
