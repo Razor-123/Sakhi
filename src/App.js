@@ -8,7 +8,7 @@ import TextField from '@mui/material/TextField';
 import SendIcon from '@mui/icons-material/Send';
 import axios from 'axios'
 
-const api_key = "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";
+const api_key = process.env.GPT_API_KEY;
 
 class Message {
   constructor(type, text) {
