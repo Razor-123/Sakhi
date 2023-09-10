@@ -40,7 +40,7 @@
 
 /* Header */
 .phone {
-  margin:50px;
+  margin: 50px auto;
   width: 400px;
   height: 80vh;
   border: solid;
