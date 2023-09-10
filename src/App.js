@@ -8,7 +8,7 @@ import TextField from '@mui/material/TextField';
 import SendIcon from '@mui/icons-material/Send';
 import axios from 'axios'
 
-const api_key = "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"
+const api_key = "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";
 
 class Message {
   constructor(type, text) {
