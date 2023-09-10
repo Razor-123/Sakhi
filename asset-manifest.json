@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Sakhi/static/css/main.0de1d678.css",
-    "main.js": "/Sakhi/static/js/main.f0e3abf0.js",
+    "main.js": "/Sakhi/static/js/main.465f463c.js",
     "static/js/787.c4e7f8f9.chunk.js": "/Sakhi/static/js/787.c4e7f8f9.chunk.js",
     "static/media/bg.jpg": "/Sakhi/static/media/bg.7e0140941162f53cf956.jpg",
     "static/media/tvs.png": "/Sakhi/static/media/tvs.415a92df3c6d12dcb2f0.png",
     "index.html": "/Sakhi/index.html",
     "main.0de1d678.css.map": "/Sakhi/static/css/main.0de1d678.css.map",
-    "main.f0e3abf0.js.map": "/Sakhi/static/js/main.f0e3abf0.js.map",
+    "main.465f463c.js.map": "/Sakhi/static/js/main.465f463c.js.map",
     "787.c4e7f8f9.chunk.js.map": "/Sakhi/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0de1d678.css",
-    "static/js/main.f0e3abf0.js"
+    "static/js/main.465f463c.js"
   ]
 }
